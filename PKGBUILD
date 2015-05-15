@@ -1,5 +1,5 @@
 pkgname=iojs
-pkgver=1.8.1
+pkgver=2.0.1
 _foldername=iojs-v${pkgver}
 pkgrel=1
 pkgdesc='Evented I/O for V8 JavaScript - Node.js fork'
